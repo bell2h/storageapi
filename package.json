@@ -1,0 +1,15 @@
+{
+  "name": "storageapi",
+  "version": "1.0.0",
+  "description": "REST API Server for extra Storage APIs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hh4813.kim@samsung.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
